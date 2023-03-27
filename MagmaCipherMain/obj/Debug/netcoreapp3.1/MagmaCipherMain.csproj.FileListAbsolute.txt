@@ -1,0 +1,16 @@
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipherMain.exe
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipherMain.deps.json
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipherMain.runtimeconfig.json
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipherMain.runtimeconfig.dev.json
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipherMain.dll
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipherMain.pdb
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipher.dll
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\bin\Debug\netcoreapp3.1\MagmaCipher.pdb
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.csprojAssemblyReference.cache
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.AssemblyInfoInputs.cache
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.AssemblyInfo.cs
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.csproj.CoreCompileInputs.cache
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.csproj.CopyComplete
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.dll
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.pdb
+C:\Users\denzi\RiderProjects\MagmaCipher\MagmaCipherMain\obj\Debug\netcoreapp3.1\MagmaCipherMain.genruntimeconfig.cache

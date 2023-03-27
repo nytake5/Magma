@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MagmaCipherMain/1.0.0": {
+        "dependencies": {
+          "MagmaCipher": "1.0.0"
+        },
+        "runtime": {
+          "MagmaCipherMain.dll": {}
+        }
+      },
+      "MagmaCipher/1.0.0": {
+        "runtime": {
+          "MagmaCipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MagmaCipherMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MagmaCipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
